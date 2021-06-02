@@ -38,8 +38,8 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`) VALUES
-(5, 'david', '$2y$10$2r23DOQvWfvB8LGXNyTMdOaUPyGUVWtVVEGTI1AeEgenGoBM1J0Ve'),
-(6, 'admin', '$2y$10$aYhH.C2l0cEMdDJjhCM43euS.XFaiUsIJtBZGR8WCS8x4w3e/gPLG');
+(5, 'david', 'david'),
+(6, 'admin', 'admin');
 
 -- --------------------------------------------------------
 
